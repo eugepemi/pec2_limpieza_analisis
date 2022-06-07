@@ -11,6 +11,8 @@
   + Código y análisis de la práctica
 + Práctica 2 - Tipología y ciclo de vida de los datos.html
   + Archivo en formato .html para aligerar el tiempo de lectura
++ Practica 2 - Entrega
+  + El fichero solicitado por la UOC, como se indica en él el grueso de las respuestas está en el notebook del respositorio.
 + README.md
   + Descripción del proyecto
 + Requirements.txt
